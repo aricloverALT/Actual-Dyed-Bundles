@@ -1,3 +1,5 @@
+// Used for Custom Version of the bundle texture.
+
 package aric3435.actualdyedbundles.mixin;
 
 import aric3435.actualdyedbundles.DyeableBundleItem;
